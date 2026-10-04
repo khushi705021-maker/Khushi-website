@@ -1,0 +1,193 @@
+body{
+  background-color:#ffe5cc;
+}
+
+
+
+.head h3{
+  color:Darkgreen;
+}
+nav a{
+  color:black;
+  text-decoration: none;
+}
+nav {
+  display:flex;
+  color:black;
+  align-items: center;
+  justify-content: space-between;
+  border: light;
+  
+}
+.head{
+  padding:10px;
+  border-bottom-color: #D8CEB9;
+  border-bottom: 30%;
+  background-color: #F4F0E6;
+}
+.hero h5{
+  font-size: 20px;
+  color:#98733c;
+}
+.hero{
+  justify-content: center;
+  margin: 10px;
+  padding: 10px;
+  align-items: center
+}
+.khushi
+img{
+  margin:10px;
+  padding:10px 10px 10px 10px;
+  height:200px;
+  width:250px;
+  align-items:center; 
+  object-fit: cover;
+  justify-content: space-between;
+  text-align: center;
+  
+}
+.button{
+  justify-items: center;
+  align-items: center;
+  padding: 20px 20px 20px 20px;
+  color:white;
+  text-decoration: none;
+  font-size: 20px;
+  display: inline-block;
+  background-color: darkgreen;
+}
+.khushi{
+  text-align:center;
+}
+image{
+  height:10px;
+  width:16px;
+}
+#bio h2{
+  margin:19px;
+  padding:10px;
+  color:darkgreen;
+  align-items: center;
+  
+}
+.early{
+  margin:10px;
+  padding:10px;
+  text-align: center;
+  background-color: lighttan;
+}
+.early img{
+  margin: 10x;
+  padding: 10px;
+  border-radius: 20%;
+  border:light;
+  height:150px;
+  width:200px;
+}
+.london img{
+  margin: 10px;
+  padding: 10px;
+  border-radius: 20%;
+  border:light;
+  height:150px;
+  width:200px;
+}
+.london{
+  margin: 10px;
+  padding:10px;
+  text-align: center;
+}
+.Family img{
+  margin: 10px;
+  padding: 10px;
+  border-radius: 20%;
+  border:light;
+  height:150px;
+  width:200px;
+}
+.Family{
+  margin: 10px;
+  padding:10px;
+  text-align: center;
+}
+.freedom img{
+  margin: 10px;
+  padding: 10px;
+  border-radius: 20%;
+  border:light;
+  height:150px;
+  width:200px;
+}
+.freedom{
+  margin: 10px;
+  padding:10px;
+  text-align: center;
+}
+.thought img{
+  margin: 10px;
+  padding: 10px;
+  border-radius: 20%;
+  border:light;
+  height:150px;
+  width:200px;
+}
+.thought{
+  margin: 10px;
+  padding:10px;
+  text-align: center;
+}
+.legacy img{
+  margin: 10px;
+  padding: 10px;
+  border-radius: 20%;
+  border:light;
+  height:150px;
+  width:200px;
+}
+.legacy{
+  margin: 10px;
+  padding:10px;
+  text-align: center;
+}
+footer{
+  width:100%;
+  box-sizing: border-box;
+  padding:30px 15px;
+  
+  background-color:darkgreen;
+}
+.monkey img{
+  height: 300px;
+  width:250px;
+  
+}
+.monkey{
+  text-align: center;
+  margin: 0px;
+  background-color: transparent;
+}
+.monkey h3{
+  color:#F5DEB3;
+  
+}
+.monkey p{
+  color:white;
+}
+.line{
+  width:90%;
+  height:2px;
+  background-color: #F5DEB3;
+}
+.ruler{
+  width:90%;
+  height:2px;
+ background-color:#F5DEB3;
+}
+#journey {
+  color:darkgreen;
+  background-color: #F8F3E8;
+}
+
+
+  
